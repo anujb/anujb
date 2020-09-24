@@ -14,7 +14,7 @@ In my spare time, I'm cooking and playing on the floor and reading books with my
 
 Here are some ideas to get you started:
 
-- 📘 I’m recently enjoyed reading [A Guide to the Good Life](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
+- 📘 I recently enjoyed reading [A Guide to the Good Life](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
 - 🌱 I’m currently learning about AI/ML 🤖
 - 🤔 I’m looking to help with their projects. Ping me.
 - 📫 How to reach me: [Email](mailto:anuj@devnos.com) or [Twitter](twitter.com/anooj)
