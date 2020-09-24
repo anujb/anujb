@@ -8,7 +8,7 @@ For the last 10 years I've been working to enable developers to build products t
 
 In my spare time, I'm cooking and playing on the floor and reading books with my family.
 
-<p align="center">
+<p align="left">
 <img src="https://blog.devnos.com/assets/images/2020-08-27-fatherhood.jpg" height="300"/> </br><br>
 </p>
 
